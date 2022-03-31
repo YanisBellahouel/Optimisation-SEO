@@ -677,7 +677,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #575757;
 }
 
 .container {
@@ -718,7 +718,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
+    color: #000000;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -739,7 +739,7 @@ h3 {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #333333!important;
+    color: #333333;
 }
 
 .med-width-whitespace {
@@ -749,11 +749,11 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: #333333;
 }
 
 h4 {
-    color: #333333!important;
+    color: #333333;
 }
 
 .icons {
@@ -762,7 +762,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #FFFFFF;
 }
 
 .portfolio-thumb {
@@ -785,7 +785,7 @@ h4 {
 
 .bold-link {
     font-weight: 900;
-    text-decoration: underline!important;
+    text-decoration: underline;
 }
 
 .bgc-white {
@@ -801,7 +801,7 @@ h4 {
 }
 
 .tc-white {
-    color: #fff!important;
+    color: #fff;
 }
 
 .btn-atomic-tangerine {
@@ -810,29 +810,29 @@ h4 {
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #c27956;
     
 }
 
 .ltc-white {
-    color: #FFFFFF!important;
+    color: #FFFFFF;
 }
 
 .ltc-white:hover {
-    color: #cccccc!important;
+    color: #cccccc;
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #F3976C;
 }
 
 .ltc-atomic-tangerine:hover {
-    color: #c27956!important;
+    color: #c27956;
 }
 
 .icon-dark-slate-blue {
-    color: #364577!important;
-    border-color: #364577!important;
+    color: #364577!;
+    border-color: #364577;
 }
 
 .bg-dots-bg {
